@@ -86,3 +86,7 @@ Execute the program
 ```sh
 ./hello_world
 ```
+
+## References
+
+- https://learnopengl.com/Getting-started/OpenGL
